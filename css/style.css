@@ -12,6 +12,12 @@
 }
 
 /************** CSS MAIN **************/
-#start-bootstrap {
+#start-bootstrap,
+#about {
+    color: white;
+}
+
+.my-btn {
+    border: 1px solid white;
     color: white;
 }
