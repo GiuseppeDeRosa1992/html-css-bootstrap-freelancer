@@ -11,13 +11,22 @@
     background-color: #3A546D;
 }
 
-/************** CSS MAIN **************/
-#start-bootstrap,
-#about {
-    color: white;
-}
-
 .my-btn {
     border: 1px solid white;
     color: white;
+}
+
+.my-color {
+    color: #1ABC9C;
+}
+
+/************** CSS MAIN **************/
+#start-bootstrap,
+#about,
+footer {
+    color: white;
+}
+
+p {
+    margin: 0;
 }
