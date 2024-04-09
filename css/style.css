@@ -13,7 +13,6 @@
 
 .my-btn {
     border: 1px solid white;
-    color: white;
 }
 
 .my-color {
@@ -25,13 +24,11 @@
     border-left: transparent;
     border-right: transparent;
 }
-/************** CSS MAIN **************/
-#start-bootstrap,
-#about,
-footer {
-    color: white;
-}
 
+.my-icon {
+    filter: invert(1);
+} 
+/************** CSS MAIN **************/
 #about hr,
 #start-bootstrap hr {
     border: 3px solid white;
